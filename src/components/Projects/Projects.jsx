@@ -43,7 +43,8 @@ function Projects() {
 
             <div className="flex flex-col gap-3 sm:flex-row">
               <a
-                href="#"
+                href="https://github.com/RRBENITES92/restaurant-api"
+                target="_blank"
                 className="rounded-lg bg-blue-600 px-4 py-2 text-center font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-blue-700"
               >
                 GitHub
@@ -85,7 +86,8 @@ function Projects() {
 
             <div className="flex flex-col gap-3 sm:flex-row">
               <a
-                href="#"
+                href="https://github.com/RRBENITES92/landing-portfolio"
+                target="_blank"
                 className="rounded-lg bg-blue-600 px-4 py-2 text-center font-semibold text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-blue-700"
               >
                 GitHub
