@@ -9,7 +9,7 @@ function Hero() {
           </p>
 
           <h1 className="mb-6 text-4xl font-bold leading-tight text-gray-900 md:text-5xl dark:text-white">
-            Desarrollador backend en C# y .NET
+            Desarrollador backend en C# y .NET enfocado en APIs y aplicaciones web
           </h1>
 
           <p className="mb-8 text-lg leading-relaxed text-gray-600 dark:text-gray-300">
