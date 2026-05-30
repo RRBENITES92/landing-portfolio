@@ -15,7 +15,7 @@ function Header() {
     <header className="sticky top-0 z-50 border-b border-gray-200 bg-white/80 backdrop-blur-md dark:border-gray-800 dark:bg-gray-950/80">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <a href="#home" className="text-xl font-bold text-gray-900 dark:text-white">
-          Ronald<span className="text-blue-600">.</span>
+          Ronald Ramirez
         </a>
 
         <div className="flex items-center gap-6">
